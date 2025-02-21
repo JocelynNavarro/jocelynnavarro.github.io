@@ -14,6 +14,8 @@ Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptow
 
 #### Hipster list
 
+{% include figure.liquid loading="eager" path="assets/img/8.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+
 <ul>
     <li>brunch</li>
     <li>fixie</li>
