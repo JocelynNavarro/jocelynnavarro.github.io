@@ -121,7 +121,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: Jocelyn's thoughts # blog_name will be displayed in your blog page
-blog_description: Sometimes I have insightful and witty things to say. This is the space for that. (: 
+blog_description: The space for sharing insightful things!
 permalink: /blog/:year/:title/
 
 display_tags: ["wow"] # these tags will be displayed on the front page of your blog
