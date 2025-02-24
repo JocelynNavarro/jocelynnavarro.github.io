@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Plant Ecologist/ PhD Candidate</a>
+subtitle: <a href='#'>Plant Ecologist / PhD Candidate</a>
 
 profile:
   align: right
@@ -16,11 +16,11 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hola, I’m JOCELYN NAVARRO.
+Hola, I’m Jocelyn Navarro.
 
 
 
-PhD Candidate at the University of Arizona in the Department of Ecology and Evolutionary Biology, advised by Professor Brian Enquist. She has 10+ years of experience conducting fieldwork to improve our understanding of the effects of climate change on plants. Her dissertation research measures the effect of climate change on plant-water relations. She prioritizes safety in the field and ensures all crew members have all they need for a successful day in the field. Field experiences in South Africa, Peru, Norway, Colorado, Connecticut,California and Arizona.
+I am currently a PhD Candidate at the University of Arizona in the Department of Ecology and Evolutionary Biology, advised by Professor Brian Enquist. I have 10+ years of experience conducting fieldwork to improve our understanding of the effects of climate change on plants. My dissertation research measures the effect of climate change on plant-water relations. I prioritize safety in the field and ensure all crew members have all they need for a successful day in the field. Field experiences are as follows: South Africa, Peru, Norway, Colorado, Connecticut, California and Arizona.
 
 
 
