@@ -58,4 +58,4 @@ This project was a collaboration with **Dr. Benjamin Wong-Blonder** (UC Berkeley
 
 This work was recently accepted for publication in the **American Journal of Botany**.
 
-> Navarro, J., Cruz-de Hoyos, R., et al. (*in press*). Triploid *Populus tremuloides* exhibit greater minimum leaf conductance than diploids: implications for drought-induced mortality. *American Journal of Botany*.
+> Navarro, J., Cruz-de Hoyos, R.M., Wong-Blonder, B., Powers, J.M., and Enquist, B.J. (*in press*). Ploidy level predicts differences in minimum leaf conductance in quaking aspen, *Populus tremuloides*. *American Journal of Botany*.
