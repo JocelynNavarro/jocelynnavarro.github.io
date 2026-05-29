@@ -4,7 +4,7 @@ title: Aspen Ploidy and Minimum Leaf Conductance
 description: Do triploid aspen trees lose more water through their leaves than diploids — and does this help explain their higher drought-induced mortality?
 img: assets/img/IMG_9410.JPG
 importance: 1
-category: research
+category: work
 ---
 
 *Populus tremuloides* (quaking aspen) is the most widely distributed tree in North America, yet triploid genets — which have three copies of each chromosome instead of the usual two — show disproportionately high rates of drought-induced mortality. Understanding why requires looking at how ploidy affects basic leaf physiology.
