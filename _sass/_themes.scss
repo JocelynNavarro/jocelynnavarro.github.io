@@ -35,12 +35,12 @@
   --global-journal-color: #{$journal-color};
 
   .fa-sun {
-    display: none;
-  }
-  .fa-moon {
     padding-left: 10px;
     padding-top: 12px;
     display: block;
+  }
+  .fa-moon {
+    display: none;
   }
 
   .repo-img-light {
@@ -80,12 +80,12 @@ html[data-theme="dark"] {
   --global-danger-block-title: #c00;
 
   .fa-sun {
+    display: none;
+  }
+  .fa-moon {
     padding-left: 10px;
     padding-top: 12px;
     display: block;
-  }
-  .fa-moon {
-    display: none;
   }
 
   .repo-img-light {

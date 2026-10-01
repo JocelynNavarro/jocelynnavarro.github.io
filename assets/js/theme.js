@@ -194,6 +194,7 @@ let initTheme = (theme) => {
   setTheme(theme);
 };
 
+localStorage.setItem("theme", "light");
 initTheme(localStorage.getItem("theme"));
 
 document.addEventListener("DOMContentLoaded", function () {

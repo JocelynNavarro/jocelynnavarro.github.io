@@ -3,7 +3,8 @@ layout: post
 title: Plant Functional Trait Course 7 South Africa
 date: 2023-12-10
 description: Measuring Day Fluxes in South Africa
-categories: Field_Work
+categories:
+  - Field Work
 thumbnail: assets/img/sa_view.jpeg
 images:
   slider: true
